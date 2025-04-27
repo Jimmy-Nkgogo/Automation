@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2Ch3n7liCUGKYZpZ-dFq0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0063d626-6a0b-4247-8299-8369f7f080ea" CvElementArea="991, 266, 388, 51" CvType="InputBox" DesignTimeRectangle="992, 267, 388, 50" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='srchInput' tag='INPUT' type='text' class='' placeholder='Search Nike, adidas, latest footwear etc?' aaname='' /&gt;" Guid="2af25a79-0681-4d8c-bfdf-21ef5ba7cf93" ScopeSelectorArgument="&lt;html app='brave.exe' title='JD Sports Global' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0ac521f67d151967db706126119953e1.png" xmlns="">01uKVjBj48UmArmvPVBmVfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

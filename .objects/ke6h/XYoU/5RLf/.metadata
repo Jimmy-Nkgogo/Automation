@@ -1,0 +1,13 @@
+﻿{
+  "Name": "JD Sports Global",
+  "Type": "Screen",
+  "Id": "5RLfx90iRkC3PC2oXchUvA",
+  "Reference": "b7uanwFph0O-9iB212RElA/5RLfx90iRkC3PC2oXchUvA",
+  "ParentRef": "b7uanwFph0O-9iB212RElA/XYoU45bkqEuS6QtI3zbe0g",
+  "Created": "2025-04-27T16:22:50.1431022Z",
+  "Updated": "2025-04-27T16:22:50.1431022Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
